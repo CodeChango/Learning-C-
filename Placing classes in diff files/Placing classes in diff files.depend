@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612564718 source:c:\users\blanc\desktop\learning c++\placing classes in diff files\main.cpp
+	<iostream>
+	"Tortilla.h"
+
+1612560179 c:\users\blanc\desktop\learning c++\placing classes in diff files\tortilla.h
+
+1612564791 source:c:\users\blanc\desktop\learning c++\placing classes in diff files\tortilla.cpp
+	"Tortilla.h"
+	<iostream>
+
