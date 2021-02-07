@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612659947 source:c:\users\blanc\desktop\learning c++\stock market simulator\main.cpp
+	<iostream>
+	<cmath>
+
